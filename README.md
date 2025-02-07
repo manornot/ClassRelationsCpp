@@ -59,22 +59,6 @@ You are tasked with designing and implementing a simple simulation of a universi
 
 ---
 
-## Submission Guidelines
-
-project/
-├── src/
-│   ├── main.cpp
-│   ├── Person.h
-│   ├── Student.h
-│   ├── Professor.h
-│   ├── Course.h
-│   └── Department.h
-├── Makefile
-├── tests/
-│   └── test_project.py
-└── README.md
-
----
 
 ## Evaluation Criteria
 
